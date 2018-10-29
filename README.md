@@ -2,6 +2,7 @@
 # face_detection_landmarks
 
 * USAGE
+
 ```python detect_faces_landmarks_video.py --prototxt deploy.prototxt.txt --model res10_300x300_ssd_iter_140000.caffemodel --shape-predictor shape_predictor_68_face_landmarks.dat```
 
 
@@ -24,5 +25,6 @@ https://pdfs.semanticscholar.org/d78b/6a5b0dcaa81b1faea5fb0000045a62513567.pdf
 
 * modelo utiliza rede ResNet como base
 
-dados para utilizar e modelos:
+* dados para utilizar e modelos:
+
 https://drive.google.com/open?id=1lsNChH3ktgU4gT7aeRhy9-o8zG3hPJWQ
